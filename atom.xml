@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>here酒馆</title>
+  <icon>http://blog.rihcb.com/icon.png</icon>
+  <subtitle>极喜时莫与人物 极怒时莫与人书</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.rihcb.com/"/>
+  <updated>2020-03-26T14:02:49.850Z</updated>
+  <id>http://blog.rihcb.com/</id>
+  
+  <author>
+    <name>酒馆</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.rihcb.com/archives/undefined.html"/>
+    <id>http://blog.rihcb.com/archives/undefined.html</id>
+    <published>2020-03-26T14:02:49.850Z</published>
+    <updated>2020-03-26T14:02:49.850Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
